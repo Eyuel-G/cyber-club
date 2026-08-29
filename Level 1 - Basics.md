@@ -205,11 +205,6 @@ linux_test/
 
 ---
 
-## Conclusion
-
-This was a basic Linux file management exercise, but it gave me good hands-on practice in the Kali Linux terminal. I got to work with creating files and directories, writing to files, renaming, copying, and deleting them.
-
-One important takeaway is to be careful with `rm -rf` since CLI deletions are permanent. Overall, this was solid practice for getting more comfortable using the Linux command line instead of doing everything through a desktop interface.
 
 <img width="1027" height="961" alt="linux_test" src="https://github.com/user-attachments/assets/2c616a0e-174a-49c1-b726-4add4dfa92b1" />
 
