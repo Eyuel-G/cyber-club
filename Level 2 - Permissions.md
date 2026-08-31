@@ -1,4 +1,4 @@
-# Linux File Permissions and Ownership Practice
+# Permissions and Ownership Practice
 
 **Author:** Eyuel Getachew  
 **Environment:** Kali Linux Terminal  
