@@ -183,3 +183,14 @@ The ownership changed from `eyuel_g eyuel_g` to `testuser testgroup`, while reta
 ## Conclusion
 
 This session provided practical experience with Linux file permissions, user account management, and ownership assignment. I learned how to use octal notation (`640`) with `chmod` to specify read/write access for owners, groups, and others, as well as how to create new system users/groups and reassign file ownership using `chown`.
+
+
+
+## Screen Shots
+<img width="500" height="500" alt="permission_1" src="https://github.com/user-attachments/assets/38c72ec1-911e-4f2a-8384-dec40719021e" />
+
+<img width="500" height="500" alt="permission_2" src="https://github.com/user-attachments/assets/06c9ba61-58ef-4f93-99cb-c9b1a788f495" />
+
+<img width="500" height="500" alt="permission_3" src="https://github.com/user-attachments/assets/66c1a549-1e8f-4848-affe-692bee604277" />
+
+
