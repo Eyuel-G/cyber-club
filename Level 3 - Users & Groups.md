@@ -244,3 +244,15 @@ From the directory listing:
 ## Conclusion
 
 This session provided practical experience with Linux user accounts, group management, user switching, and default file permissions. I gained a practical understanding of how primary vs. secondary groups operate in Linux, how context switching with `su -` alters the environment, and how default file creation assigns ownership based on the active user and primary group.
+
+
+
+<img width="500" height="500" alt="users_1" src="https://github.com/user-attachments/assets/65245b39-3177-41d6-8f0d-dcdcfcf73017" />
+<img width="500" height="500" alt="users_2" src="https://github.com/user-attachments/assets/8495ada7-dbdd-4a44-a5d3-3c8e71d5e5a4" />
+<img width="500" height="500" alt="users_3" src="https://github.com/user-attachments/assets/f940d37a-b214-410d-a67a-d712c93eaf1b" />
+<img width="500" height="500" alt="users_4" src="https://github.com/user-attachments/assets/68909583-84cc-4882-b94c-d93677065c19" />
+<img width="500" height="500" alt="users_5" src="https://github.com/user-attachments/assets/ba0d4dbf-8396-403e-b1a0-faba6662900a" />
+
+
+
+
